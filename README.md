@@ -1,2 +1,2 @@
 # JAVALearning
-My journey to laring the java  language 
+My journey to learing the java  language 
